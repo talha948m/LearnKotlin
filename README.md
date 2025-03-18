@@ -6,8 +6,6 @@ Welcome to the **Kotlin Learning** repository! This is a step-by-step guide to m
 - ✅ Kotlin Basics: Variables, Data Types, Control Flow
 - ✅ Functions & Object-Oriented Programming
 - ✅ Collections & Higher-Order Functions
-- ✅ Coroutines & Asynchronous Programming
-- ✅ Jetpack Compose Basics
 - ✅ Advanced Kotlin Topics
 
 ## **Who is this for?**
